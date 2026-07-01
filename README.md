@@ -94,13 +94,14 @@ This project demonstrates:
 
 ### 🏠 Home Page
 
-![Home Page](images/Screenshot%20(124).png)
+![Home Page](Screenshot%20(124).png)
 
 ---
 
-### ℹ️ About Page
+### 📄 About Page
 
-![About Page](images/Screenshot%20(125).png)
+![About Page](Screenshot%20(125).png)
+
 
 ## 🔮 Future Improvements
 
